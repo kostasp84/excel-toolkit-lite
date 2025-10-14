@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# PyInstaller
+/v1/build/
+/v1/dist/
+/v1.1/build/
+/v1.1/dist/
+/v2.0/build/
+/v2.0/dist/
+
+# Windows
+*.exe
+*.msi
+*.dll
+*.pyd
+
+# Editor / OS files
+.vscode/
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Temporary files
+*.log
+*.tmp
+*.bak
+
+# Packaging cache
+pip-wheel-metadata/
+
+# backup files
+*~
